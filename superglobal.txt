@@ -1,0 +1,12 @@
+$_POST
+The PHP $_POST is a PHP superglobal
+which is used to collect form data 
+after submitting an HTML form using method="post". 
+
+$_GET
+The PHP $_GET is a PHP superglobal
+which is used to collect form data after submitting an HTML form using method="get".
+Information sent from an HTML form with the GET method is displayed in the browser's 
+address bar making it less secure than POST. 
+
+
